@@ -13,15 +13,16 @@ The Python download requires about 25 Mb of disk space; keep it on your machine,
 
   The following page will appear in your browser.
 
-
+![Image of Python Download Page](https://github.com/nflorez228/Python-for-AI/blob/master/Chapter%201/Images/pythondownloadpage.jpg)
 
 2. Click the Windows link (two lines below the Download Python 3.7.4 button). The following page will appear in your browser.
-
+![Image of Python Windows Download Page](https://github.com/nflorez228/Python-for-AI/blob/master/Chapter%201/Images/pythondownloadwindowspage.jpg)
 
 3. Click on the Download Windows x86-64 executable installer link under the top-left Stable Releases.
   The following pop-up window titled Opening python-3.74-amd64.exe will appear.
 
-
+![Image of Python Save File](https://github.com/nflorez228/Python-for-AI/blob/master/Chapter%201/Images/savefile.jpg
+)
 
 4. Click the Save File button.
 
