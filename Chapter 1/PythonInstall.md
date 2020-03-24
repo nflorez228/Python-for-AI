@@ -1,35 +1,36 @@
 # Python Download and Installation Instructions
 You may want to print these instructions before proceeding, so that you can refer to them while downloading and installing Python. Or, just keep this document in your browser. You should read each step completely before performing the action that it describes.
 
-This document shows downloading and installing Python 3.7.4 on Windows 10 in Summer 2019. **You should download and install the latest version of Python.** The current latest (as of Winter 2020) is Python 3.8.1.
+This document shows downloading and installing Python 3.8.2 on Windows 10 in March 2020. **You should download and install the latest version of Python.** 
 
-Remember that you must install Java, Python, and Eclipse as all 64-bit applications.
-
-## Python: Version 3.7.4
-The Python download requires about 25 Mb of disk space; keep it on your machine, in case you need to re-install Python. When installed, Python requires about an additional 90 Mb of disk space.
+## Python: Version 3.8.2
+The Python download file requires about 25 Mb of disk space; keep it on your machine, in case you need to re-install Python. When installed, Python requires about an additional 90 Mb of disk space.
 
 ### Downloading
-1. Click Python Download.
+1. Go to Python webpage.
 
   The following page will appear in your browser.
 
-![Image of Python Download Page](https://github.com/nflorez228/Python-for-AI/blob/master/Chapter%201/Images/pythondownloadpage.jpg)
+![Image of Python Download Page](https://github.com/nflorez228/Python-for-AI/blob/master/Chapter%201/Images/landing.jpg)
 
-2. Click the Windows link (two lines below the Download Python 3.7.4 button). The following page will appear in your browser.
+2. Click the blue "Downloads" button.
+  
+  The following page will appear in your browser.
+
 ![Image of Python Windows Download Page](https://github.com/nflorez228/Python-for-AI/blob/master/Chapter%201/Images/pythondownloadwindowspage.jpg)
 
-3. Click on the Download Windows x86-64 executable installer link under the top-left Stable Releases.
-  The following pop-up window titled Opening python-3.74-amd64.exe will appear.
+3. Click the yellow button "Download Pyhton 3.8.2". Depending on your computer configuration the following pop-up window will appear, asking you to save the file in a location on your PC.
 
-![Image of Python Save File](https://github.com/nflorez228/Python-for-AI/blob/master/Chapter%201/Images/savefile.jpg
-)
+![Image of Python Save File](https://github.com/nflorez228/Python-for-AI/blob/master/Chapter%201/Images/savefile.jpg)
 
 4. Click the Save File button.
 
-  The file named python-3.7.4-amd64.exe should start downloading into your standard download folder. This file is about 30 Mb so it might take a while to download fully if you are on a slow internet connection (it took me about 10 seconds over a cable modem).
+  The file named python-3.8.2.exe should start downloading into your standard or selected download folder. This file is about 25 Mb so it might take a while to download fully if you are on a slow internet connection.
 
   The file should appear as
 
+
+![Image of Python Save File Exe](https://github.com/nflorez228/Python-for-AI/blob/master/Chapter%201/Images/exefile.jpg)
 
 
 4. Move this file to a more permanent location, so that you can install Python (and reinstall it easily later, if necessary).
@@ -38,11 +39,11 @@ The Python download requires about 25 Mb of disk space; keep it on your machine,
 
 ### Installing
 1. Double-click the icon labeling the file python-3.7.4-amd64.exe.
-  A Python 3.7.4 (64-bit) Setup pop-up window will appear.
+  A Python 3.8.2 (32-bit) Setup pop-up window will appear.
 
+![Image of Python Setup](https://github.com/nflorez228/Python-for-AI/blob/master/Chapter%201/Images/pythonsetup.jpg)
 
-
-  Ensure that the Install launcher for all users (recommended) and the Add Python 3.7 to PATH checkboxes at the bottom are checked.
+  Ensure that the Install launcher for all users (recommended) and the Add Python 3.8 to PATH checkboxes at the bottom are checked.
 
   If the Python Installer finds an earlier version of Python installed on your computer, the Install Now message may instead appear as Upgrade Now (and the checkboxes will not appear).
 
@@ -50,20 +51,19 @@ The Python download requires about 25 Mb of disk space; keep it on your machine,
   When run, a User Account Control pop-up window may appear on your screen. I could not capture its image, but it asks, Do you want to allow this app to make changes to your device.
 
 3. Click the Yes button.
-  A new Python 3.7.4 (64-bit) Setup pop-up window will appear with a Setup Progress message and a progress bar.
+  A new Python 3.8.2 (32-bit) Setup pop-up window will appear with a Setup Progress message and a progress bar.
+
+  During installation, it will show the various components it is installing and move the progress bar towards completion. Soon, a new Python 3.8.2 (32-bit) Setup pop-up window will appear with a Setup was successfuly message.
 
 
-
-  During installation, it will show the various components it is installing and move the progress bar towards completion. Soon, a new Python 3.7.4 (64-bit) Setup pop-up window will appear with a Setup was successfuly message.
-
-
+![Image of Python Save File Exe](https://github.com/nflorez228/Python-for-AI/blob/master/Chapter%201/Images/pythonsetupsuccessful.jpg)
 
 4. Click the Close button.
 Python should now be installed.
 
 ### Verifying
 To try to verify installation,
-Navigate to the directory C:\Users\Pattis\AppData\Local\Programs\Python\Python37 (or to whatever directory Python was installed: see the pop-up window for Installing step 3).
+Navigate to the directory C:\Users\\AppData\Local\Programs\Python\Python37 (or to whatever directory Python was installed: see the pop-up window for Installing step 3).
 Double-click the icon/file python.exe.
 The following pop-up window will appear.
 
