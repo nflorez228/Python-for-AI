@@ -17,11 +17,11 @@ The Python download file requires about 25 Mb of disk space; keep it on your mac
   
   The following page will appear in your browser.
 
-![Image of Python Windows Download Page](https://github.com/nflorez228/Python-for-AI/blob/master/Chapter%201/Images/pythondownloadwindowspage.jpg)
+![Image of Python Windows Download Page](https://github.com/nflorez228/Python-for-AI/blob/master/Chapter%201/Aditional%20Resources/Images/pythondownloadwindowspage.jpg)
 
 3. Click the yellow button "Download Pyhton 3.8.2". Depending on your computer configuration the following pop-up window will appear, asking you to save the file in a location on your PC.
 
-![Image of Python Save File](https://github.com/nflorez228/Python-for-AI/blob/master/Chapter%201/Images/savefile.jpg)
+![Image of Python Save File](https://github.com/nflorez228/Python-for-AI/blob/master/Chapter%201/Aditional%20Resources/Images/savefile.jpg)
 
 4. Click the Save File button.
 
@@ -30,7 +30,7 @@ The Python download file requires about 25 Mb of disk space; keep it on your mac
   The file should appear as
 
 
-![Image of Python Save File Exe](https://github.com/nflorez228/Python-for-AI/blob/master/Chapter%201/Images/exefile.jpg)
+![Image of Python Save File Exe](https://github.com/nflorez228/Python-for-AI/blob/master/Chapter%201/Aditional%20Resources/Images/exefile.jpg)
 
 
 4. Move this file to a more permanent location, so that you can install Python (and reinstall it easily later, if necessary).
@@ -41,7 +41,7 @@ The Python download file requires about 25 Mb of disk space; keep it on your mac
 1. Double-click the icon labeling the file python-3.7.4-amd64.exe.
   A Python 3.8.2 (32-bit) Setup pop-up window will appear.
 
-![Image of Python Setup](https://github.com/nflorez228/Python-for-AI/blob/master/Chapter%201/Images/pythonsetup.jpg)
+![Image of Python Setup](https://github.com/nflorez228/Python-for-AI/blob/master/Chapter%201/Aditional%20Resources/Images/pythonsetup.jpg)
 
   Ensure that the Install launcher for all users (recommended) and the Add Python 3.8 to PATH checkboxes at the bottom are checked.
 
@@ -56,7 +56,7 @@ The Python download file requires about 25 Mb of disk space; keep it on your mac
   During installation, it will show the various components it is installing and move the progress bar towards completion. Soon, a new Python 3.8.2 (32-bit) Setup pop-up window will appear with a Setup was successfuly message.
 
 
-![Image of Python Save File Exe](https://github.com/nflorez228/Python-for-AI/blob/master/Chapter%201/Images/pythonsetupsuccessful.jpg)
+![Image of Python Save File Exe](https://github.com/nflorez228/Python-for-AI/blob/master/Chapter%201/Aditional%20Resources/Images/pythonsetupsuccessful.jpg)
 
 4. Click the Close button.
 Python should now be installed.
