@@ -11,7 +11,7 @@ The Python download file requires about 25 Mb of disk space; keep it on your mac
 
   The following page will appear in your browser.
 
-![Image of Python Download Page](https://github.com/nflorez228/Python-for-AI/blob/master/Chapter%201/Images/landing.jpg)
+![Image of Python Download Page](https://github.com/nflorez228/Python-for-AI/blob/master/Chapter%201/Aditional%20Resources/Images/landing.jpg)
 
 2. Click the blue "Downloads" button.
   
