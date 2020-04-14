@@ -1,9 +1,7 @@
 def get_full_nameFix(first, last, middle=''):
  """Return a full name."""
  if middle:
- full_name = "{0} {1} {2}".format(first,
- middle, last)
+     full_name = "{0} {1} {2}".format(first, middle, last)
  else:
- full_name = "{0} {1}".format(first,
- last)
+     full_name = "{0} {1}".format(first, last)
  return full_name.title()
