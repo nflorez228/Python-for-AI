@@ -1,28 +1,3 @@
-class ElectricCar(Car):
- def __init__(self, make, model, year):
-  """Initialize an electric car."""
-  super().__init__(make, model, year)
-  # Attribute specific to electric cars.
-  self.battery = Battery()
- def charge(self):
-  """Fully charge the vehicle."""
-  self.battery.charge_level = 100
-  print("The vehicle is fully charged.")
-
-class Battery():
- """A battery for an electric car."""
- def __init__(self, size=70):
-  """Initialize battery attributes."""
-  # Capacity in kWh, charge level in %.
-  self.size = size
-  self.charge_level = 0
- def get_range(self):
-  """Return the battery's range."""
-  if self.size == 70:
-    return 240
-  elif self.size == 85:
-    return 270
-
 class Car():
  """A simple attempt to model a car."""
 
@@ -42,3 +17,29 @@ class Car():
  def drive(self):
   """Simulate driving."""
   print("The car is moving.")
+
+class Battery():
+ """A battery for an electric car."""
+ def __init__(self, size=70):
+  """Initialize battery attributes."""
+  # Capacity in kWh, charge level in %.
+  self.size = size
+  self.charge_level = 0
+ def get_range(self):
+  """Return the battery's range."""
+  if self.size == 70:
+    return 240
+  elif self.size == 85:
+    return 270
+
+class ElectricCar(Car):
+ def __init__(self, make, model, year):
+  """Initialize an electric car."""
+  super().__init__(make, model, year)
+  # Attribute specific to electric cars.
+  self.battery = Battery()
+ def charge(self):
+  """Fully charge the vehicle."""
+  self.battery.charge_level = 100
+  print("The vehicle is fully charged.")
+
